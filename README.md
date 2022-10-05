@@ -4,7 +4,7 @@ Ejemplo Notes en .Net MAUI, básico. Modificado con fines didácticos. Original:
 
 
 ## Nota:
-En AboutPage.xaml.cs, se usa un link ejemplo.
+En AboutPage.xaml.cs, se usa un link ejemplo C#.
 ```
     private async void LearnMore_Clicked(object sender, EventArgs e)
     {
